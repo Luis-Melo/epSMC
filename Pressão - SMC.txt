@@ -1,0 +1,27 @@
+
+Pressão
+
+Segundo um relatório produzido pela Agência Espacial Européia
+(ESA) referente a janeiro de 2019,
+
+o número de lançamentos de foguetes bem-sucedidos desde o início
+da exploração espacial em 1957 é de 5450, o que se reflete nos
+atuais 5000 satélites em órbita terrestre, dos quais apenas
+1950 permanecem funcionais. (1)
+
+Fonte:
+https://www.esa.int/Our_Activities/Space_Safety/Space_Debris/Space_debris_by_the_numbers
+
+As atividades que mais contribuem para a poluição contínua das
+órbitas terrestres são as seguintes: componentes modulares de
+foguetes, que são projetados para serem abandonados uma vez que
+o conteúdo do lançamento atinja órbita estável (2); satélites e
+telescópios deixam de serem utilizados depois de um tempo e,
+muitas vezes, não possuem um mecanismo de abandono de órbita
+(3) e testes de armas antissatélite realizados por países como
+EUA, Rússia, índia e China, que consistem em utilizar mísseis
+para destruir satélites em órbita, o que incrementa bastante o
+número de detritos espaciais. (4)
+
+Falta apontar indicadores de pressão e preencher as referências.
+
