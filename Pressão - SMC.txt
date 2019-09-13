@@ -1,24 +1,38 @@
+# Tema
 
-Pressão
+Lixo espacial são objetos criados artificialmente deixados no espaço, sem uso
+corrente. Para os propósitos deste trabalho, iremos considerar somente o lixo
+ao redor da órbita da terra, que é o que representa tanto a maior parte quanto
+o maior impacto para o ser humano neste momento.
 
-Segundo um relatório produzido pela Agência Espacial Européia (ESA) referente a
-janeiro de 2019,
-
-O número de lançamentos de foguetes bem-sucedidos desde o início da exploração
-espacial em 1957 é de 5450, o que se reflete nos atuais 5000 satélites em
-órbita terrestre, dos quais apenas 1950 permanecem funcionais. (1)
-
-Fonte:
-https://www.esa.int/Our_Activities/Space_Safety/Space_Debris/Space_debris_by_the_numbers
+# Pressão
 
 As atividades que mais contribuem para a poluição contínua das órbitas
-terrestres são as seguintes: componentes modulares de foguetes, que são
-projetados para serem abandonados uma vez que o conteúdo do lançamento atinja
-órbita estável (2); satélites e telescópios deixam de serem utilizados depois
-de um tempo e, muitas vezes, não possuem um mecanismo de abandono de órbita (3)
-e testes de armas antissatélite realizados por países como EUA, Rússia, índia e
-China, que consistem em utilizar mísseis para destruir satélites em órbita, o
-que incrementa bastante o número de detritos espaciais. (4)
+terrestres são as seguintes:
 
-Falta apontar indicadores de pressão e preencher as referências.
+ - satélites e telescópios que deixaram de serem utilizados depois de um tempo
+   e não foram removidos de órbita (porém, modernamente, alguns são movidos
+   para "órbitas cemitério" para evitar atrapalhar o uso das órbitas mais
+   convencionais);
+ - componentes modulares de foguetes, que são projetados para serem abandonados
+   uma vez que o conteúdo do lançamento atinja órbita estável, apesar de os
+   estágios inferiores caírem e se desintegrarem na atmosfera, os superiores
+   continuam em órbita, e podem explodir devido a combustível restante, criando
+   mais detritos;
+ - e testes de armas antissatélite realizados por países como EUA, Rússia,
+   Índia e China, que consistem em utilizar mísseis para destruir satélites em
+   órbita, o que incrementa bastante o número de detritos espaciais.
+
+## Satélites
+
+Segundo um relatório produzido pela Agência Espacial Européia (ESA) referente a
+janeiro de 2019 (1), o número de lançamentos de foguetes bem-sucedidos desde o
+início da exploração espacial em 1957 é de por volta de 5450, o que se reflete
+nos atuais ~5000 satélites em órbita terrestre, dos quais apenas ~1950
+permanecem funcionais.
+
+Fonte:
+(1) https://www.esa.int/Our_Activities/Space_Safety/Space_Debris/Space_debris_by_the_numbers
+
+Falta apontar indicadores de pressão e preencher as referências. (Wikipedia FTW)
 
