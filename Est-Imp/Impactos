@@ -1,17 +1,22 @@
-Alguns casos de satélites impactados por detritos espaciais são os seguintes:
+Impactos envolvendo satélites
+
   - (1) Satélite russo Express AM11, que se tornou inoperável ao ser
 atingido em 26 de março de 2006 por um objeto desconhecido;
-  - (2) Em 10 de fevereiro de 2009, o satélite não-funcional Kosmos 2251, de 900kg, e o satélite operacional Iridium 33, de 560kg, colidiram a uma velocidade relativa de aproximadamente 11.7 km/s (42.120 km/h), causando a destruição de ambos os corpos e gerando pelo menos 1800 novos detritos.
-  - (3) Em 22 de maior de 2013, o satélite russo BLITS foi atingido por um micro detrito, perdendo com isso o foco que mantinha em certas estrelas para controlar sua altitude. 
+  - (2) Em 10 de fevereiro de 2009, o satélite não-funcional Kosmos 2251, de 900kg, e o satélite operacional Iridium 33, de 560kg, colidiram a uma velocidade relativa de aproximadamente 11.7 km/s (42.120 km/h), causando a destruição de ambos os corpos e gerando pelo menos 1800 novos detritos;
+  - (3) Em 22 de janeiro de 2013, o satélite russo BLITS foi atingido por um micro detrito resultante de um teste antissatélite realizado pela China em 2007, perdendo com isso o foco que mantinha em certas estrelas, fator esse necessário para controlar sua altitude. 
+---------------------------------------------------------------
 
-Falta tratar:
-
--Retornos de detritos para a terra perigosos.   
--Síndrome de Kessler (crescimento exponencial de detritos)
+Síndrome de Kessler
+(4) Um possível impacto proposto por Donald J. Kessler em 1978 é o aumento exponencial do número de detritos em órbita da terra devido ao seguinte fenômeno: iniciando-se com um número suficiente de detritos em órbita, há uma certa probabilidade de ocorrerem colisões e, já que cada colisão aumenta o número de detritos, a probabilidade de que colisões voltem a aconter se torna ainda maior.
+ Dessa maneira, um ciclo retroalimentado de colisões toma lugar, podendo resultar em um cenário onde a densidade de detritos espaciais em determinadas órbitas terrestres seja tão alta a ponto de torná-las inviáveis para o posicionamento de satélites até que os detritos retornem à Terra, o que leva alguns anos, algumas décadas ou alguns séculos dependendo da altitude da órbita. (5)
 
 ---------------------------------------------------------------
 (1) http://www.spaceref.com/news/viewsr.html?pid=20320
 
 (2) https://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/20100002023.pdf
 
-(3) 
+(3) https://earth.esa.int/web/eoportal/satellite-missions/b/blits
+
+(4) https://ui.adsabs.harvard.edu/abs/1978JGR....83.2637K/abstract
+
+(5) https://www.nasa.gov/news/debris_faq.html
